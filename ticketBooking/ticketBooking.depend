@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1616437792 source:c:\admin\second year-second semester\cs-201\ticketbooking\src\moviebookingsystem.cpp
+	<iostream>
+	"MovieBookingSystem.h"
+	<cmath>
+
+1616436482 c:\admin\second year-second semester\cs-201\ticketbooking\include\moviebookingsystem.h
+	<string>
+	"movie.h"
+	"booking.h"
+
+1616422866 source:c:\admin\second year-second semester\cs-201\ticketbooking\main.cpp
+	"MovieBookingSystem.h"
+	<iostream>
+
+1616432586 source:c:\admin\second year-second semester\cs-201\ticketbooking\src\movie.cpp
+	"movie.h"
+	<ctime>
+	<iostream>
+	<cmath>
+
+1616359254 c:\admin\second year-second semester\cs-201\ticketbooking\include\movie.h
+	<ctime>
+
+1616426364 source:c:\admin\second year-second semester\cs-201\ticketbooking\src\booking.cpp
+	"booking.h"
+
+1616419767 c:\admin\second year-second semester\cs-201\ticketbooking\include\booking.h
+
